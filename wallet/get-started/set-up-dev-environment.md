@@ -163,3 +163,10 @@ async function getAccount() {
 ```
 
 <!--/tabs-->
+simple-dapp/
+├─ src/
+│  ├─ index.js
+├─ dist/
+│  ├─ index.html
+
+dapp script
